@@ -51,11 +51,12 @@ cabô a tabela
 
 ---
 
-arquivo teste: document.getElementById()
+arquivo teste document.getElementById()
 
 Teste de programa JavaScript:
 
 '''
+
 var distanciaParaIlha = 960;
 var velocidade = 10;
 var kmPorDia = velocidade * 24;
