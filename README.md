@@ -2,8 +2,11 @@
 ## Um teste de **Markdown**
 ---
 **negrito**
+
 __tbm negrito__
+
 ~~riscado~~
+
 # Título 1
 ## Título 2
 ### Título 3
@@ -34,3 +37,4 @@ Lista de tarefa:
 - [ ] Estudar bem mais
 - [ ] E trabajar tbm
 
+![Imagem maneira](https://github.com/Robert-2003/Markdown/assets/91291814/e44fc7ae-641c-45ec-bb89-885e82f12eca)
