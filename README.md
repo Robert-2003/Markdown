@@ -51,16 +51,15 @@ cabô a tabela
 
 ---
 
-arquivo teste document.getElementById()
+arquivo teste 'document.getElementById()'
 
 Teste de programa JavaScript:
 
 '''
 
-var distanciaParaIlha = 960;
-var velocidade = 10;
-var kmPorDia = velocidade * 24;
-var diasParaChegada = distanciaParaIlha / kmPorDia;
-mensagemResgate = "A equipe de resgate chegará em " + diasParaChegada + " dias.";
-console.log(mensagemResgate);
+num = int(input('Digite um valor: ')
+if num %2 == 0;
+   print(f'O valor {num} é PAR')
+else:
+   print(f'O valor {num} é ÍMPAR)
 '''
